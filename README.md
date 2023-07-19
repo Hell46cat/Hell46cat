@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ｈｉ， ｉ ａｍ Ａｎｄｒｅｗ👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100"/>
+</div>
+
 
 <!--
 **meow46meow/meow46meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
