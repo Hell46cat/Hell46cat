@@ -4,6 +4,7 @@ I am a beginner developer. I live in Russia. I have little experience in writing
 I also study the Golang language.
 I will post my projects on this Github.
 <img src="https://komarev.com/ghpvc/?username=your-github-meo46meow&style=flat-square&color=blue" alt=""/>
+
 ---
 #### My C projects
 *
@@ -11,8 +12,6 @@ I will post my projects on this Github.
 *
 ---
 #### My Golang projects
-
-
 *
 *
 *
