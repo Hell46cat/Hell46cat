@@ -8,9 +8,9 @@ I will post my projects on this Github.
 
 ---
 #### My C projects
-*
-*
-*
+* Pin-Pong (school 21)
+* Game of life (school 21)
+* Polish notation (school 21)
 ---
 #### My Golang projects
 *
@@ -28,6 +28,4 @@ I will post my projects on this Github.
 [![codewars](https://www.codewars.com/users/meow46/badges/small)](https://www.codewars.com/users/meow46) 
 ---
 #### Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meow46meow)](https://git.io/streak-stats)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/meow46meow)
